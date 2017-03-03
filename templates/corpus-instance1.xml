@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<corpusInfo xmlns="http://www.meta-share.org/OMTD-SHARE_XMLSchema"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.meta-share.org/OMTD-SHARE_XMLSchema file:/home/mba/homemaiage/Documents/AlvisNLP/omtd-share_metadata_schema-master/OMTD-SHARE%20v101%20XSD/OMTD-SHARE-Corpus.xsd">
+    <resourceType> ! Mettez la valeur ici !</resourceType>
+    <identificationInfo>
+        <resourceNames>
+            <resourceName lang="en-US"> ! Mettez la valeur ici !</resourceName>
+            <resourceName lang="en-US"> ! Mettez la valeur ici !</resourceName>
+        </resourceNames>
+        <descriptions>
+            <description lang="en-US"> ! Mettez la valeur ici !</description>
+            <description lang="en-US"> ! Mettez la valeur ici !</description>
+        </descriptions>
+        <resourceShortNames>
+            <resourceShortName lang="en-US"> ! Mettez la valeur ici !</resourceShortName>
+            <resourceShortName lang="en-US"> ! Mettez la valeur ici !</resourceShortName>
+        </resourceShortNames>
+        <identifiers>
+            <identifier resourceIdentifierSchemeName="doi" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</identifier>
+            <identifier resourceIdentifierSchemeName="doi" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</identifier>
+        </identifiers>
+    </identificationInfo>
+    <contactInfo>
+        <contactEmail> ! Mettez la valeur ici !</contactEmail>
+        <contactPersons>
+            <contactPerson>
+                <personNames>
+                    <personName lang="en-US"> ! Mettez la valeur ici !</personName>
+                    <personName lang="en-US"> ! Mettez la valeur ici !</personName>
+                </personNames>
+            </contactPerson>
+            <contactPerson>
+                <personIdentifiers>
+                    <personIdentifier personIdentifierSchemeName="orcid" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</personIdentifier>
+                    <personIdentifier personIdentifierSchemeName="orcid" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</personIdentifier>
+                </personIdentifiers>
+            </contactPerson>
+        </contactPersons>
+        <contactGroups>
+            <contactGroup>
+                <groupNames>
+                    <groupName lang="en-US"> ! Mettez la valeur ici !</groupName>
+                    <groupName lang="en-US"> ! Mettez la valeur ici !</groupName>
+                </groupNames>
+                <relatedOrganization>
+                    <organizationIdentifiers>
+                        <organizationIdentifier organizationIdentifierSchemeName="isni" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</organizationIdentifier>
+                        <organizationIdentifier organizationIdentifierSchemeName="isni" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</organizationIdentifier>
+                    </organizationIdentifiers>
+                </relatedOrganization>
+            </contactGroup>
+            <contactGroup>
+                <groupNames>
+                    <groupName lang="en-US"> ! Mettez la valeur ici !</groupName>
+                    <groupName lang="en-US"> ! Mettez la valeur ici !</groupName>
+                </groupNames>
+                <relatedOrganization>
+                    <organizationIdentifiers>
+                        <organizationIdentifier organizationIdentifierSchemeName="isni" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</organizationIdentifier>
+                        <organizationIdentifier organizationIdentifierSchemeName="isni" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</organizationIdentifier>
+                    </organizationIdentifiers>
+                </relatedOrganization>
+            </contactGroup>
+        </contactGroups>
+        <mailingLists>
+            <mailingListInfo>
+                <mailingListName> ! Mettez la valeur ici !</mailingListName>
+                <subscribe> ! Mettez la valeur ici !</subscribe>
+                <unsubscribe> ! Mettez la valeur ici !</unsubscribe>
+                <post> ! Mettez la valeur ici !</post>
+                <archive> ! Mettez la valeur ici !</archive>
+                <otherArchives>
+                    <otherArchive> ! Mettez la valeur ici !</otherArchive>
+                    <otherArchive> ! Mettez la valeur ici !</otherArchive>
+                </otherArchives>
+            </mailingListInfo>
+            <mailingListInfo>
+                <mailingListName> ! Mettez la valeur ici !</mailingListName>
+                <subscribe> ! Mettez la valeur ici !</subscribe>
+                <unsubscribe> ! Mettez la valeur ici !</unsubscribe>
+                <post> ! Mettez la valeur ici !</post>
+                <archive> ! Mettez la valeur ici !</archive>
+                <otherArchives>
+                    <otherArchive> ! Mettez la valeur ici !</otherArchive>
+                    <otherArchive> ! Mettez la valeur ici !</otherArchive>
+                </otherArchives>
+            </mailingListInfo>
+        </mailingLists>
+    </contactInfo>
+    <versionInfo>
+        <version> ! Mettez la valeur ici !</version>
+        <revision> ! Mettez la valeur ici !</revision>
+        <lastDateUpdated>
+            <day> ! Mettez la valeur ici !</day>
+            <month> ! Mettez la valeur ici !</month>
+            <year> ! Mettez la valeur ici !</year>
+        </lastDateUpdated>
+        <updateFrequency> ! Mettez la valeur ici !</updateFrequency>
+    </versionInfo>
+    <validationInfos>
+        <validationInfo>
+            <validated> ! Mettez la valeur ici !</validated>
+            <validationType> ! Mettez la valeur ici !</validationType>
+            <validationMode> ! Mettez la valeur ici !</validationMode>
+            <validationModeDetails> ! Mettez la valeur ici !</validationModeDetails>
+            <validationExtent> ! Mettez la valeur ici !</validationExtent>
+            <validationExtentDetails> ! Mettez la valeur ici !</validationExtentDetails>
+            <sizePerValidation>
+                <size> ! Mettez la valeur ici !</size>
+                <sizeUnit> ! Mettez la valeur ici !</sizeUnit>
+            </sizePerValidation>
+            <validationReports>
+                <hasValidationReport>
+                    <publicationIdentifiers>
+                        <publicationIdentifier publicationIdentifierSchemeName="doi" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</publicationIdentifier>
+                        <publicationIdentifier publicationIdentifierSchemeName="doi" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</publicationIdentifier>
+                    </publicationIdentifiers>
+                </hasValidationReport>
+                <hasValidationReport>
+                    <documentUnstructured> ! Mettez la valeur ici !</documentUnstructured>
+                </hasValidationReport>
+            </validationReports>
+            <validationSwComponents>
+                <isValidatedBy>
+                    <resourceNames>
+                        <resourceName lang="en-US"> ! Mettez la valeur ici !</resourceName>
+                        <resourceName lang="en-US"> ! Mettez la valeur ici !</resourceName>
+                    </resourceNames>
+                </isValidatedBy>
+                <isValidatedBy>
+                    <resourceIdentifiers>
+                        <resourceIdentifier resourceIdentifierSchemeName="doi" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</resourceIdentifier>
+                        <resourceIdentifier resourceIdentifierSchemeName="doi" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</resourceIdentifier>
+                    </resourceIdentifiers>
+                </isValidatedBy>
+            </validationSwComponents>
+            <validators>
+                <validator>
+                    <relatedPerson>
+                        <personNames>
+                            <personName lang="en-US"> ! Mettez la valeur ici !</personName>
+                            <personName lang="en-US"> ! Mettez la valeur ici !</personName>
+                        </personNames>
+                    </relatedPerson>
+                </validator>
+                <validator>
+                    <relatedPerson>
+                        <personNames>
+                            <personName lang="en-US"> ! Mettez la valeur ici !</personName>
+                            <personName lang="en-US"> ! Mettez la valeur ici !</personName>
+                        </personNames>
+                    </relatedPerson>
+                </validator>
+            </validators>
+        </validationInfo>
+        <validationInfo>
+            <validated> ! Mettez la valeur ici !</validated>
+            <validationType> ! Mettez la valeur ici !</validationType>
+            <validationMode> ! Mettez la valeur ici !</validationMode>
+            <validationModeDetails> ! Mettez la valeur ici !</validationModeDetails>
+            <validationExtent> ! Mettez la valeur ici !</validationExtent>
+            <validationExtentDetails> ! Mettez la valeur ici !</validationExtentDetails>
+            <sizePerValidation>
+                <size> ! Mettez la valeur ici !</size>
+                <sizeUnit> ! Mettez la valeur ici !</sizeUnit>
+            </sizePerValidation>
+            <validationReports>
+                <hasValidationReport>
+                    <publicationIdentifiers>
+                        <publicationIdentifier publicationIdentifierSchemeName="doi" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</publicationIdentifier>
+                        <publicationIdentifier publicationIdentifierSchemeName="doi" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</publicationIdentifier>
+                    </publicationIdentifiers>
+                </hasValidationReport>
+                <hasValidationReport>
+                    <documentUnstructured> ! Mettez la valeur ici !</documentUnstructured>
+                </hasValidationReport>
+            </validationReports>
+            <validationSwComponents>
+                <isValidatedBy>
+                    <resourceNames>
+                        <resourceName lang="en-US"> ! Mettez la valeur ici !</resourceName>
+                        <resourceName lang="en-US"> ! Mettez la valeur ici !</resourceName>
+                    </resourceNames>
+                </isValidatedBy>
+                <isValidatedBy>
+                    <resourceNames>
+                        <resourceName lang="en-US"> ! Mettez la valeur ici !</resourceName>
+                        <resourceName lang="en-US"> ! Mettez la valeur ici !</resourceName>
+                    </resourceNames>
+                </isValidatedBy>
+            </validationSwComponents>
+            <validators>
+                <validator>
+                    <relatedPerson>
+                        <personIdentifiers>
+                            <personIdentifier personIdentifierSchemeName="orcid" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</personIdentifier>
+                            <personIdentifier personIdentifierSchemeName="orcid" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</personIdentifier>
+                        </personIdentifiers>
+                    </relatedPerson>
+                </validator>
+                <validator>
+                    <relatedOrganization>
+                        <organizationIdentifiers>
+                            <organizationIdentifier organizationIdentifierSchemeName="isni" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</organizationIdentifier>
+                            <organizationIdentifier organizationIdentifierSchemeName="isni" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</organizationIdentifier>
+                        </organizationIdentifiers>
+                    </relatedOrganization>
+                </validator>
+            </validators>
+        </validationInfo>
+    </validationInfos>
+    <usageInfo>
+        <foreseenUseInfos>
+            <foreseenUseInfo>
+                <foreseenUse> ! Mettez la valeur ici !</foreseenUse>
+                <useNlpApplications>
+                    <useNLPSpecific> ! Mettez la valeur ici !</useNLPSpecific>
+                    <useNLPSpecific> ! Mettez la valeur ici !</useNLPSpecific>
+                </useNlpApplications>
+            </foreseenUseInfo>
+            <foreseenUseInfo>
+                <foreseenUse> ! Mettez la valeur ici !</foreseenUse>
+                <useNlpApplications>
+                    <useNLPSpecific> ! Mettez la valeur ici !</useNLPSpecific>
+                    <useNLPSpecific> ! Mettez la valeur ici !</useNLPSpecific>
+                </useNlpApplications>
+            </foreseenUseInfo>
+        </foreseenUseInfos>
+        <actualUseInfos>
+            <actualUseInfo>
+                <actualUse> ! Mettez la valeur ici !</actualUse>
+                <useNlpApplications>
+                    <useNLPSpecific> ! Mettez la valeur ici !</useNLPSpecific>
+                    <useNLPSpecific> ! Mettez la valeur ici !</useNLPSpecific>
+                </useNlpApplications>
+                <usageReports>
+                    <usageReport>
+                        <publicationIdentifiers>
+                            <publicationIdentifier publicationIdentifierSchemeName="doi" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</publicationIdentifier>
+                            <publicationIdentifier publicationIdentifierSchemeName="doi" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</publicationIdentifier>
+                        </publicationIdentifiers>
+                    </usageReport>
+                    <usageReport>
+                        <publicationIdentifiers>
+                            <publicationIdentifier publicationIdentifierSchemeName="doi" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</publicationIdentifier>
+                            <publicationIdentifier publicationIdentifierSchemeName="doi" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</publicationIdentifier>
+                        </publicationIdentifiers>
+                    </usageReport>
+                </usageReports>
+                <derivedResources>
+                    <derivedResource>
+                        <resourceNames>
+                            <resourceName lang="en-US"> ! Mettez la valeur ici !</resourceName>
+                            <resourceName lang="en-US"> ! Mettez la valeur ici !</resourceName>
+                        </resourceNames>
+                    </derivedResource>
+                    <derivedResource>
+                        <resourceIdentifiers>
+                            <resourceIdentifier resourceIdentifierSchemeName="doi" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</resourceIdentifier>
+                            <resourceIdentifier resourceIdentifierSchemeName="doi" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</resourceIdentifier>
+                        </resourceIdentifiers>
+                    </derivedResource>
+                </derivedResources>
+                <usageProjects>
+                    <usageProject>
+                        <projectIdentifiers>
+                            <projectIdentifier projectIdentifierSchemeName="projectIdentifierSchemeName1" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</projectIdentifier>
+                            <projectIdentifier projectIdentifierSchemeName="projectIdentifierSchemeName3" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</projectIdentifier>
+                        </projectIdentifiers>
+                    </usageProject>
+                    <usageProject>
+                        <projectIdentifiers>
+                            <projectIdentifier projectIdentifierSchemeName="projectIdentifierSchemeName5" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</projectIdentifier>
+                            <projectIdentifier projectIdentifierSchemeName="projectIdentifierSchemeName7" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</projectIdentifier>
+                        </projectIdentifiers>
+                    </usageProject>
+                </usageProjects>
+                <actualUseDetails> ! Mettez la valeur ici !</actualUseDetails>
+            </actualUseInfo>
+            <actualUseInfo>
+                <actualUse> ! Mettez la valeur ici !</actualUse>
+                <useNlpApplications>
+                    <useNLPSpecific> ! Mettez la valeur ici !</useNLPSpecific>
+                    <useNLPSpecific> ! Mettez la valeur ici !</useNLPSpecific>
+                </useNlpApplications>
+                <usageReports>
+                    <usageReport>
+                        <publicationIdentifiers>
+                            <publicationIdentifier publicationIdentifierSchemeName="doi" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</publicationIdentifier>
+                            <publicationIdentifier publicationIdentifierSchemeName="doi" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</publicationIdentifier>
+                        </publicationIdentifiers>
+                    </usageReport>
+                    <usageReport>
+                        <documentUnstructured> ! Mettez la valeur ici !</documentUnstructured>
+                    </usageReport>
+                </usageReports>
+                <derivedResources>
+                    <derivedResource>
+                        <resourceNames>
+                            <resourceName lang="en-US"> ! Mettez la valeur ici !</resourceName>
+                            <resourceName lang="en-US"> ! Mettez la valeur ici !</resourceName>
+                        </resourceNames>
+                    </derivedResource>
+                    <derivedResource>
+                        <resourceIdentifiers>
+                            <resourceIdentifier resourceIdentifierSchemeName="doi" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</resourceIdentifier>
+                            <resourceIdentifier resourceIdentifierSchemeName="doi" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</resourceIdentifier>
+                        </resourceIdentifiers>
+                    </derivedResource>
+                </derivedResources>
+                <usageProjects>
+                    <usageProject>
+                        <projectNames>
+                            <projectName lang="en-US"> ! Mettez la valeur ici !</projectName>
+                            <projectName lang="en-US"> ! Mettez la valeur ici !</projectName>
+                        </projectNames>
+                    </usageProject>
+                    <usageProject>
+                        <projectIdentifiers>
+                            <projectIdentifier projectIdentifierSchemeName="projectIdentifierSchemeName9" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</projectIdentifier>
+                            <projectIdentifier projectIdentifierSchemeName="projectIdentifierSchemeName11" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</projectIdentifier>
+                        </projectIdentifiers>
+                    </usageProject>
+                </usageProjects>
+                <actualUseDetails> ! Mettez la valeur ici !</actualUseDetails>
+            </actualUseInfo>
+        </actualUseInfos>
+    </usageInfo>
+    <resourceDocumentationInfo>
+        <citations>
+            <mustBeCitedWith>
+                <documentUnstructured> ! Mettez la valeur ici !</documentUnstructured>
+            </mustBeCitedWith>
+            <mustBeCitedWith>
+                <publicationIdentifiers>
+                    <publicationIdentifier publicationIdentifierSchemeName="doi" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</publicationIdentifier>
+                    <publicationIdentifier publicationIdentifierSchemeName="doi" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</publicationIdentifier>
+                </publicationIdentifiers>
+            </mustBeCitedWith>
+        </citations>
+        <documentationPublications>
+            <isDocumentedIn>
+                <documentUnstructured> ! Mettez la valeur ici !</documentUnstructured>
+            </isDocumentedIn>
+            <isDocumentedIn>
+                <documentUnstructured> ! Mettez la valeur ici !</documentUnstructured>
+            </isDocumentedIn>
+        </documentationPublications>
+        <samplesLocations>
+            <samplesLocation> ! Mettez la valeur ici !</samplesLocation>
+            <samplesLocation> ! Mettez la valeur ici !</samplesLocation>
+        </samplesLocations>
+    </resourceDocumentationInfo>
+    <resourceCreationInfo>
+        <resourceCreators>
+            <resourceCreator>
+                <relatedOrganization>
+                    <organizationIdentifiers>
+                        <organizationIdentifier organizationIdentifierSchemeName="isni" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</organizationIdentifier>
+                        <organizationIdentifier organizationIdentifierSchemeName="isni" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</organizationIdentifier>
+                    </organizationIdentifiers>
+                </relatedOrganization>
+            </resourceCreator>
+            <resourceCreator>
+                <relatedOrganization>
+                    <organizationNames>
+                        <organizationName lang="en-US"> ! Mettez la valeur ici !</organizationName>
+                        <organizationName lang="en-US"> ! Mettez la valeur ici !</organizationName>
+                    </organizationNames>
+                </relatedOrganization>
+            </resourceCreator>
+        </resourceCreators>
+        <fundingProjects>
+            <fundingProject>
+                <projectNames>
+                    <projectName lang="en-US"> ! Mettez la valeur ici !</projectName>
+                    <projectName lang="en-US"> ! Mettez la valeur ici !</projectName>
+                </projectNames>
+            </fundingProject>
+            <fundingProject>
+                <projectIdentifiers>
+                    <projectIdentifier projectIdentifierSchemeName="projectIdentifierSchemeName13" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</projectIdentifier>
+                    <projectIdentifier projectIdentifierSchemeName="projectIdentifierSchemeName15" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</projectIdentifier>
+                </projectIdentifiers>
+            </fundingProject>
+        </fundingProjects>
+        <creationDate>
+            <dateRange>
+                <startDate>
+                    <day> ! Mettez la valeur ici !</day>
+                    <month> ! Mettez la valeur ici !</month>
+                    <year> ! Mettez la valeur ici !</year>
+                </startDate>
+                <endDate>
+                    <day> ! Mettez la valeur ici !</day>
+                    <month> ! Mettez la valeur ici !</month>
+                    <year> ! Mettez la valeur ici !</year>
+                </endDate>
+            </dateRange>
+        </creationDate>
+    </resourceCreationInfo>
+    <distributionInfos>
+        <datasetDistributionInfo>
+            <distributionMediums>
+                <distributionMedium> ! Mettez la valeur ici !</distributionMedium>
+                <distributionMedium> ! Mettez la valeur ici !</distributionMedium>
+            </distributionMediums>
+            <downloadURLs>
+                <downloadURL> ! Mettez la valeur ici !</downloadURL>
+                <downloadURL> ! Mettez la valeur ici !</downloadURL>
+            </downloadURLs>
+            <accessURLs>
+                <accessURL> ! Mettez la valeur ici !</accessURL>
+                <accessURL> ! Mettez la valeur ici !</accessURL>
+            </accessURLs>
+            <textFormats>
+                <textFormatInfo>
+                    <mimeType> ! Mettez la valeur ici !</mimeType>
+                    <sizePerTextFormat>
+                        <size> ! Mettez la valeur ici !</size>
+                        <sizeUnit> ! Mettez la valeur ici !</sizeUnit>
+                    </sizePerTextFormat>
+                </textFormatInfo>
+                <textFormatInfo>
+                    <mimeType> ! Mettez la valeur ici !</mimeType>
+                    <sizePerTextFormat>
+                        <size> ! Mettez la valeur ici !</size>
+                        <sizeUnit> ! Mettez la valeur ici !</sizeUnit>
+                    </sizePerTextFormat>
+                </textFormatInfo>
+            </textFormats>
+            <characterEncodings>
+                <characterEncodingInfo>
+                    <characterEncoding> ! Mettez la valeur ici !</characterEncoding>
+                    <sizePerCharacterEncoding>
+                        <size> ! Mettez la valeur ici !</size>
+                        <sizeUnit> ! Mettez la valeur ici !</sizeUnit>
+                    </sizePerCharacterEncoding>
+                </characterEncodingInfo>
+                <characterEncodingInfo>
+                    <characterEncoding> ! Mettez la valeur ici !</characterEncoding>
+                    <sizePerCharacterEncoding>
+                        <size> ! Mettez la valeur ici !</size>
+                        <sizeUnit> ! Mettez la valeur ici !</sizeUnit>
+                    </sizePerCharacterEncoding>
+                </characterEncodingInfo>
+            </characterEncodings>
+            <sizes>
+                <sizeInfo>
+                    <size> ! Mettez la valeur ici !</size>
+                    <sizeUnit> ! Mettez la valeur ici !</sizeUnit>
+                </sizeInfo>
+                <sizeInfo>
+                    <size> ! Mettez la valeur ici !</size>
+                    <sizeUnit> ! Mettez la valeur ici !</sizeUnit>
+                </sizeInfo>
+            </sizes>
+            <rightsInfo>
+                <rightsStatementInfo>
+                    <rightsStmtName> ! Mettez la valeur ici !</rightsStmtName>
+                    <rightsStmtURL> ! Mettez la valeur ici !</rightsStmtURL>
+                </rightsStatementInfo>
+            </rightsInfo>
+            <copyrightStatements>
+                <copyrightStatement lang="en-US"> ! Mettez la valeur ici !</copyrightStatement>
+                <copyrightStatement lang="en-US"> ! Mettez la valeur ici !</copyrightStatement>
+            </copyrightStatements>
+            <attributionTexts>
+                <attributionText lang="en-US"> ! Mettez la valeur ici !</attributionText>
+                <attributionText lang="en-US"> ! Mettez la valeur ici !</attributionText>
+            </attributionTexts>
+            <rightsHolders>
+                <rightsHolder>
+                    <relatedOrganization>
+                        <organizationNames>
+                            <organizationName lang="en-US"> ! Mettez la valeur ici !</organizationName>
+                            <organizationName lang="en-US"> ! Mettez la valeur ici !</organizationName>
+                        </organizationNames>
+                    </relatedOrganization>
+                </rightsHolder>
+                <rightsHolder>
+                    <relatedPerson>
+                        <personNames>
+                            <personName lang="en-US"> ! Mettez la valeur ici !</personName>
+                            <personName lang="en-US"> ! Mettez la valeur ici !</personName>
+                        </personNames>
+                    </relatedPerson>
+                </rightsHolder>
+            </rightsHolders>
+            <availabilityStartDate> ! Mettez la valeur ici !</availabilityStartDate>
+            <availabilityEndDate> ! Mettez la valeur ici !</availabilityEndDate>
+            <fee> ! Mettez la valeur ici !</fee>
+            <userTypes>
+                <userType> ! Mettez la valeur ici !</userType>
+                <userType> ! Mettez la valeur ici !</userType>
+            </userTypes>
+        </datasetDistributionInfo>
+        <datasetDistributionInfo>
+            <distributionMediums>
+                <distributionMedium> ! Mettez la valeur ici !</distributionMedium>
+                <distributionMedium> ! Mettez la valeur ici !</distributionMedium>
+            </distributionMediums>
+            <downloadURLs>
+                <downloadURL> ! Mettez la valeur ici !</downloadURL>
+                <downloadURL> ! Mettez la valeur ici !</downloadURL>
+            </downloadURLs>
+            <accessURLs>
+                <accessURL> ! Mettez la valeur ici !</accessURL>
+                <accessURL> ! Mettez la valeur ici !</accessURL>
+            </accessURLs>
+            <textFormats>
+                <textFormatInfo>
+                    <mimeType> ! Mettez la valeur ici !</mimeType>
+                    <sizePerTextFormat>
+                        <size> ! Mettez la valeur ici !</size>
+                        <sizeUnit> ! Mettez la valeur ici !</sizeUnit>
+                    </sizePerTextFormat>
+                </textFormatInfo>
+                <textFormatInfo>
+                    <mimeType> ! Mettez la valeur ici !</mimeType>
+                    <sizePerTextFormat>
+                        <size> ! Mettez la valeur ici !</size>
+                        <sizeUnit> ! Mettez la valeur ici !</sizeUnit>
+                    </sizePerTextFormat>
+                </textFormatInfo>
+            </textFormats>
+            <characterEncodings>
+                <characterEncodingInfo>
+                    <characterEncoding> ! Mettez la valeur ici !</characterEncoding>
+                    <sizePerCharacterEncoding>
+                        <size> ! Mettez la valeur ici !</size>
+                        <sizeUnit> ! Mettez la valeur ici !</sizeUnit>
+                    </sizePerCharacterEncoding>
+                </characterEncodingInfo>
+                <characterEncodingInfo>
+                    <characterEncoding> ! Mettez la valeur ici !</characterEncoding>
+                    <sizePerCharacterEncoding>
+                        <size> ! Mettez la valeur ici !</size>
+                        <sizeUnit> ! Mettez la valeur ici !</sizeUnit>
+                    </sizePerCharacterEncoding>
+                </characterEncodingInfo>
+            </characterEncodings>
+            <sizes>
+                <sizeInfo>
+                    <size> ! Mettez la valeur ici !</size>
+                    <sizeUnit> ! Mettez la valeur ici !</sizeUnit>
+                </sizeInfo>
+                <sizeInfo>
+                    <size> ! Mettez la valeur ici !</size>
+                    <sizeUnit> ! Mettez la valeur ici !</sizeUnit>
+                </sizeInfo>
+            </sizes>
+            <rightsInfo>
+                <licenceInfos>
+                    <licenceInfo>
+                        <licence> ! Mettez la valeur ici !</licence>
+                    </licenceInfo>
+                    <licenceInfo>
+                        <licence> ! Mettez la valeur ici !</licence>
+                    </licenceInfo>
+                </licenceInfos>
+                <rightsStatementInfo>
+                    <rightsStmtName> ! Mettez la valeur ici !</rightsStmtName>
+                    <rightsStmtURL> ! Mettez la valeur ici !</rightsStmtURL>
+                </rightsStatementInfo>
+            </rightsInfo>
+            <copyrightStatements>
+                <copyrightStatement lang="en-US"> ! Mettez la valeur ici !</copyrightStatement>
+                <copyrightStatement lang="en-US"> ! Mettez la valeur ici !</copyrightStatement>
+            </copyrightStatements>
+            <attributionTexts>
+                <attributionText lang="en-US"> ! Mettez la valeur ici !</attributionText>
+                <attributionText lang="en-US"> ! Mettez la valeur ici !</attributionText>
+            </attributionTexts>
+            <rightsHolders>
+                <rightsHolder>
+                    <relatedOrganization>
+                        <organizationIdentifiers>
+                            <organizationIdentifier organizationIdentifierSchemeName="isni" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</organizationIdentifier>
+                            <organizationIdentifier organizationIdentifierSchemeName="isni" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</organizationIdentifier>
+                        </organizationIdentifiers>
+                    </relatedOrganization>
+                </rightsHolder>
+                <rightsHolder>
+                    <relatedOrganization>
+                        <organizationIdentifiers>
+                            <organizationIdentifier organizationIdentifierSchemeName="isni" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</organizationIdentifier>
+                            <organizationIdentifier organizationIdentifierSchemeName="isni" schemeURI="http://www.oxygenxml.com/"> ! Mettez la valeur ici !</organizationIdentifier>
+                        </organizationIdentifiers>
+                    </relatedOrganization>
+                </rightsHolder>
+            </rightsHolders>
+            <availabilityStartDate> ! Mettez la valeur ici !</availabilityStartDate>
+            <availabilityEndDate> ! Mettez la valeur ici !</availabilityEndDate>
+            <fee> ! Mettez la valeur ici !</fee>
+            <userTypes>
+                <userType> ! Mettez la valeur ici !</userType>
+                <userType> ! Mettez la valeur ici !</userType>
+            </userTypes>
+        </datasetDistributionInfo>
+    </distributionInfos>
+    <corpusSubtypeSpecificInfo>
+        <annotatedCorpusInfo>
+            <corpusSubtype>annotatedCorpus</corpusSubtype>
+            <corpusMediaParts>
+                <corpusTextParts>
+                    <corpusTextPartInfo>
+                        <mediaType> ! Mettez la valeur ici !</mediaType>
+                        <lingualityInfo>
+                            <lingualityType> ! Mettez la valeur ici !</lingualityType>
+                        </lingualityInfo>
+                        <languages>
+                            <languageInfo>
+                                <language>
+                                    <languageTag> ! Mettez la valeur ici !</languageTag>
+                                    <languageId> ! Mettez la valeur ici !</languageId>
+                                </language>
+                            </languageInfo>
+                            <languageInfo>
+                                <language>
+                                    <languageTag> ! Mettez la valeur ici !</languageTag>
+                                    <languageId> ! Mettez la valeur ici !</languageId>
+                                </language>
+                            </languageInfo>
+                        </languages>
+                        <sizes>
+                            <sizeInfo>
+                                <size> ! Mettez la valeur ici !</size>
+                                <sizeUnit> ! Mettez la valeur ici !</sizeUnit>
+                            </sizeInfo>
+                            <sizeInfo>
+                                <size> ! Mettez la valeur ici !</size>
+                                <sizeUnit> ! Mettez la valeur ici !</sizeUnit>
+                            </sizeInfo>
+                        </sizes>
+                    </corpusTextPartInfo>
+                    <corpusTextPartInfo>
+                        <mediaType> ! Mettez la valeur ici !</mediaType>
+                        <lingualityInfo>
+                            <lingualityType> ! Mettez la valeur ici !</lingualityType>
+                        </lingualityInfo>
+                        <languages>
+                            <languageInfo>
+                                <language>
+                                    <languageTag> ! Mettez la valeur ici !</languageTag>
+                                    <languageId> ! Mettez la valeur ici !</languageId>
+                                </language>
+                            </languageInfo>
+                            <languageInfo>
+                                <language>
+                                    <languageTag> ! Mettez la valeur ici !</languageTag>
+                                    <languageId> ! Mettez la valeur ici !</languageId>
+                                </language>
+                            </languageInfo>
+                        </languages>
+                        <sizes>
+                            <sizeInfo>
+                                <size> ! Mettez la valeur ici !</size>
+                                <sizeUnit> ! Mettez la valeur ici !</sizeUnit>
+                            </sizeInfo>
+                            <sizeInfo>
+                                <size> ! Mettez la valeur ici !</size>
+                                <sizeUnit> ! Mettez la valeur ici !</sizeUnit>
+                            </sizeInfo>
+                        </sizes>
+                    </corpusTextPartInfo>
+                </corpusTextParts>
+                <annotations>
+                    <annotationInfo>
+                        <annotationLevel> ! Mettez la valeur ici !</annotationLevel>
+                    </annotationInfo>
+                    <annotationInfo>
+                        <annotationLevel> ! Mettez la valeur ici !</annotationLevel>
+                    </annotationInfo>
+                </annotations>
+            </corpusMediaParts>
+        </annotatedCorpusInfo>
+    </corpusSubtypeSpecificInfo>
+</corpusInfo>
