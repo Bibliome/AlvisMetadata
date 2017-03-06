@@ -4,7 +4,7 @@
  xsi:schemaLocation="http://www.meta-share.org/OMTD-SHARE_XMLSchema file:/home/mba/homemaiage/Documents/AlvisNLP/omtd-share_metadata_schema-master/OMTD-SHARE%20v101%20XSD/OMTD-SHARE-Corpus.xsd">
     <resourceType> ! Mettez la valeur ici !</resourceType>
     <identificationInfo>
-        <resourceNames>
+        <resourceNames> <!-- ajouter les noms des resources-->
             <resourceName lang="en-US"> ! Mettez la valeur ici !</resourceName>
             <resourceName lang="en-US"> ! Mettez la valeur ici !</resourceName>
         </resourceNames>
